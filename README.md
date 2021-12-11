@@ -4,7 +4,7 @@
 
 # 1. Download the project from github in .zip format on your pc
 
-# 2. Find the .zip folder on your pc and press right click and choossing "extract files" to create a new folder
+# 2. Find the .zip folder on your pc and press right click and choose "extract files" to create a new folder
 
 # 3. After the extracting files find the new folder on your pc and open this with a text editor like the "Visual Studio Code"
 
