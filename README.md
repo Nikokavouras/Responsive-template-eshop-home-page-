@@ -1,6 +1,6 @@
 # Template-Html5-Css3-Scss-and-JavaScript
 
-# Basic Steps to ruuning this project:
+# Basic Steps to running this project:
 
 # 1. Download the project from github in .zip format on your pc
 
