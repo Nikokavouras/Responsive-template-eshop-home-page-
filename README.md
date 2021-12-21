@@ -12,7 +12,9 @@ TECHNOLOGIES
 Requirements
   - Git
   - Visual Studio Code
-<!--     - Extensions Editor (Live Server) -->
+      - Extensions
+          - Live Server
+          - Live Sass Compiler 
  
 INSTALLATION-PROCESSING PROJECT
   - GIT CLONE
@@ -24,6 +26,7 @@ INSTALLATION-PROCESSING PROJECT
       - Press right click on the new folder and choose "git bash"
       - Run the command "git pull" to control repository updates. It must appears "Already up to date."
       - Open the folder in Visual Studio Code
+           - If you have windows, open the folder with Command Prompt and type "code ."
 
   - GIT ADD (OPTIONAL)
       - After your changes. Run the commnad "git add ." to add your changes (OPTIONAL)
