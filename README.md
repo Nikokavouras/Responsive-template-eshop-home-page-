@@ -1,6 +1,17 @@
-# Template-Html5-Css3-Scss-and-JavaScript
+# RESPONSIVE TEMPLATE
 
-# Basic Steps to running this project:
+ABOUT THE PROJECT
+  - This template represents the Home Page of an eshop with diving equipment items. If you want to use it for an other eshop, you can change the content like the hero image, the     testimonilas section or any other specific informations.
+
+TECHNOLOGIES
+  - HTML5
+  - CSS3(SCSS)
+  - JAVASCRIPT
+  
+ RUNNING PROJECT
+  - 
+
+
 
 # 1. Download the project from github in .zip format on your pc
 
