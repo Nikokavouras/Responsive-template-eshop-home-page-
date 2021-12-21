@@ -8,17 +8,31 @@ TECHNOLOGIES
   - CSS3(SCSS)
   - JAVASCRIPT
   
- RUNNING PROJECT
-  - 
+  
+Requirements
+  - Git
+  - Visual Studio Code
+<!--     - Extensions Editor (Live Server) -->
+ 
+INSTALLATION-PROCESSING PROJECT
+  - GIT CLONE
+      - Click the code button and copy the repository url
+      - Go to your desktop pc, press right click and choose "git bash"
+      - Run the command "git clone" and paste the repository url link
 
+  - GIT PULL
+      - Press right click on the new folder and choose "git bash"
+      - Run the command "git pull" to control repository updates. It must appears "Already up to date."
+      - Open the folder in Visual Studio Code
 
+  - GIT ADD (OPTIONAL)
+      - After your changes. Run the commnad "git add ." to add your changes (OPTIONAL)
+      - Run the command "git status" to see what files have been changed (OPTIONAL)
+  
+  - GIT COMMIT-PUSH (OPTIONAL)
+      - After your all changes. Run the command "git commit -m "your comment..."" (OPTIONAL)
+      - At the end. Run the command "git push" to upload your changes in github repository (OPTIONAL)
 
-# 1. Download the project from github in .zip format on your pc
-
-# 2. Find the .zip folder on your pc and press right click and choose "extract files" to create a new folder
-
-# 3. After the extracting files find the new folder on your pc and open this with a text editor like the "Visual Studio Code"
-
-# 4. Go to extensions on the left menu inside the text editor "Visual Studio Code" and search the extension "Live Server" and download this.
-
-# 5. At the end go to index.html file from the project and press right click and choose "Open with Live Server"
+SEE PROJECT
+  - After the above. Open the index.html file in your favorite browser inside of Visual Studio Code.
+  - ALTERNATIVE you can download the "Live Server" extension of the VSC and then press right click on index.html file and choose "open with live server"
