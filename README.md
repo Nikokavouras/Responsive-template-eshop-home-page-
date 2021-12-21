@@ -18,7 +18,7 @@ INSTALLATION-PROCESSING PROJECT
   - GIT CLONE
       - Click the code button and copy the repository url
       - Go to your desktop pc, press right click and choose "git bash"
-      - Run the command "git clone" and paste the repository url link
+      - Run the command "git clone" and paste the repository url in same line
 
   - GIT PULL
       - Press right click on the new folder and choose "git bash"
